@@ -18,13 +18,12 @@ Gremlins is a maze-based game where a wizard navigates through a maze filled wit
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Fahim-ctrl-oss/MyProjects.git
+   git clone <github-link>
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd gremlins_v1.1
    cd gremlins
    ```
 
